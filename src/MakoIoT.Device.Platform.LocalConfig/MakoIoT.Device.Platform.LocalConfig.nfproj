@@ -45,39 +45,39 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration.Metadata, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.42.54736\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.43.32843\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.ConfigurationManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.79.40503\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.81.54242\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.FileStorage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.FileStorage.1.0.45.51786\lib\MakoIoT.Device.Services.FileStorage.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.FileStorage.1.0.46.9242\lib\MakoIoT.Device.Services.FileStorage.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Interface.1.0.45.4694\lib\MakoIoT.Device.Services.Interface.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Interface.1.0.46.2905\lib\MakoIoT.Device.Services.Interface.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Mediator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.40.12180\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Mediator.1.0.41.33870\lib\MakoIoT.Device.Services.Mediator.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.52.9319\lib\MakoIoT.Device.Services.Server.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.Server.1.0.54.13433\lib\MakoIoT.Device.Services.Server.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.WiFi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.1.0.53.16802\lib\MakoIoT.Device.Services.WiFi.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.1.0.54.58193\lib\MakoIoT.Device.Services.WiFi.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.WiFi.AP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.55.37186\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.WiFi.AP.1.0.57.55012\lib\MakoIoT.Device.Services.WiFi.AP.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Utilities.Invoker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Utilities.Invoker.1.0.27.50780\lib\MakoIoT.Device.Utilities.Invoker.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Utilities.Invoker.1.0.28.14340\lib\MakoIoT.Device.Utilities.Invoker.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Utilities.String, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
