@@ -37,7 +37,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Platform.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Platform.Interface.1.0.10.15735\lib\MakoIoT.Device.Platform.Interface.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Platform.Interface.1.0.11.43840\lib\MakoIoT.Device.Platform.Interface.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -49,7 +49,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.ConfigurationManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.89.41306\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.90.24652\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.FileStorage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
