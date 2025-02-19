@@ -37,7 +37,7 @@
       <HintPath>..\..\packages\nanoFramework.Iot.Device.DhcpServer.1.2.761\lib\Iot.Device.DhcpServer.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Platform.Interface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Platform.Interface.1.0.18.17927\lib\MakoIoT.Device.Platform.Interface.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Platform.Interface.1.0.19.38402\lib\MakoIoT.Device.Platform.Interface.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.Configuration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.1.0.64.18364\lib\MakoIoT.Device.Services.Configuration.dll</HintPath>
