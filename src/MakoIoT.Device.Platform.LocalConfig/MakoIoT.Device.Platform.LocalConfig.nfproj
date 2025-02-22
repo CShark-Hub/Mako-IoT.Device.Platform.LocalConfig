@@ -46,7 +46,7 @@
       <HintPath>..\..\packages\MakoIoT.Device.Services.Configuration.Metadata.1.0.53.5042\lib\MakoIoT.Device.Services.Configuration.Metadata.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.ConfigurationManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.142.19282\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
+      <HintPath>..\..\packages\MakoIoT.Device.Services.ConfigurationManager.1.0.143.19246\lib\MakoIoT.Device.Services.ConfigurationManager.dll</HintPath>
     </Reference>
     <Reference Include="MakoIoT.Device.Services.FileStorage, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\..\packages\MakoIoT.Device.Services.FileStorage.1.1.3.37353\lib\MakoIoT.Device.Services.FileStorage.dll</HintPath>
