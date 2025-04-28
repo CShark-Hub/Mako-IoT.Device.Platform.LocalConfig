@@ -33,7 +33,7 @@
       <dependency id="nanoFramework.DependencyInjection" version="1.1.32" />
       <dependency id="nanoFramework.Iot.Device.DhcpServer" version="1.2.851" />
       <dependency id="nanoFramework.Json" version="2.2.199" />
-      <dependency id="nanoFramework.Logging" version="1.1.156" />
+      <dependency id="nanoFramework.Logging" version="1.1.157" />
       <dependency id="nanoFramework.ResourceManager" version="1.2.32" />
       <dependency id="nanoFramework.Runtime.Events" version="1.11.32" />
       <dependency id="nanoFramework.System.Collections" version="1.5.67" />
